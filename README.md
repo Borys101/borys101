@@ -28,7 +28,9 @@
 
 <h3 align="left">🌟 What I Do</h3>
 
-- Frontend 🎨: create interactive, user-friendly interfaces, focusing on responsive and modern design.<br>- Backend ⚙️: build robust APIs, manage databases, and ensure smooth server operations for seamless user experiences.<br>- Collaboration 🤝: believe in clean, maintainable code and enjoy working in collaborative, agile teams.
+- Frontend 🎨: create interactive, user-friendly interfaces, focusing on responsive and modern design
+- Backend ⚙️: build robust APIs, manage databases, and ensure smooth server operations for seamless user experiences
+- Collaboration 🤝: believe in clean, maintainable code and enjoy working in collaborative, agile teams.
 
 ###
 
