@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVxMXlha3kzeTF1bDU0eHF1ZjJ1a2VyOXpmbnA5eXdyYnQ5aXdyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="480" height="480"></img>
 </div>
 
 ###
