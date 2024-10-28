@@ -87,7 +87,7 @@ I'm currently diving into <b>Three.js</b> to bring interactive 3D graphics to th
 ###
 
 <div align="center">
-  <img width="600" src="assets/softserve-certificate.svg" alt="softserve"/>
+  <img width="600" src="assets/softserve-certificate.jpg" alt="softserve"/>
 </div>
 
 ###
